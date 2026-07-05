@@ -3,8 +3,6 @@
 ## 📖 Project Overview
 The **Learning App Website** is a UI/UX design project created to provide students with a simple, engaging, and interactive online learning experience. The design focuses on helping users track their learning progress, connect with mentors, and navigate courses effortlessly through a clean and modern interface.
 
-## 🔗 Project Link
-👉 **GitHub Repository:** https://github.com/vithisharajesh/learning-app.git
 
 👉 **Figma Design:** https://www.figma.com/design/xldOkeGGsY2sR9WCWvQQzt/Untitled?node-id=0-1&t=rfdabUQiSejiD6KH-1
 
